@@ -22,4 +22,4 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Screen_Recording_2022-02-19_at_3_11_46_AM_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/91585817/154792873-53bab50e-a9cd-4869-ae76-cfc5ff2baf7a.gif)
+![Screen_Recording_2022-02-19_at_3_11_46_AM_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/91585817/154792885-05b191e4-0b92-4db8-925f-9675940bfcf3.gif)
