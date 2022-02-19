@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![l_AdobeCreativeCloudExpress (1)](https://user-images.githubusercontent.com/91585817/154793408-dba0d7b0-388e-4c1f-95a9-d1e7d1e0ffaf.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/91585817/154793493-927911a9-fc7c-4be8-8c6e-38288f3e7c9c.gif)
